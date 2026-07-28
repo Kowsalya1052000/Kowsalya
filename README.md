@@ -23,8 +23,8 @@
 ---
 
 ## Certifications
-- ✅ CompTIA Security+ SY0-701 (July 2026)
-- ✅ Google Cybersecurity Certificate (March 2026)
+- ✅ CompTIA Security+ SY0-701
+- ✅ Google Cybersecurity Certificate
 
 ---
 
@@ -33,7 +33,7 @@
 |---|---|---|
 | 01 | Cyber Security - Investigations | 4 documented cases: ICMP Flood DoS, DNS Port Unreachable, Contractor Account Exploitation |
 | 02 | Python | Python IP Allowlist Automation |
-| 03 | Splunk Detection Lab | Built SPL queries for brute force, suspicious process creation, anomaly detection |
+| 03 | Splunk| Built SPL queries for brute force, suspicious process creation, anomaly detection |
 | 04 | Healthcare Security Analysis | Change Healthcare ransomware case study — mapped to MITRE ATT&CK, NIST CSF, HIPAA |
 | 05 | Threat Intelligence Research | GTIG zero-day exploit analysis, IOC extraction, MITRE mapping |
 

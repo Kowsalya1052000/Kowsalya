@@ -1,15 +1,11 @@
 # Hi, I'm Kowsalya
 
 ## About Me
-🏥 MedTech Regulatory Professional with 3.5 years 
-experience in EU MDR and US FDA compliance for critical
-implantable medical devices
-
-🔐 Transitioning into Cybersecurity — 
-DFIR & Incident Response
-
+🔐 Cybersecurity Engineer | CompTIA Security+ | Cyber Security GRC Engineer | Incident Response Engineer
+🏥 Former MedTech GRC Professional with 4 years in EU MDR & US FDA compliance for implantable medical devices 
+🌐 Now specializing in Cyber Security - GRC, Incident Response, SIEM operations, and threat intelligence
 📍 Chennai, India
-🎯 Target: Healthcare Cybersecurity Analyst
+🎯 Target Role: Healthcare Cybersecurity Engineer / Cyber Security GRC Engineer / IR Engineer 
 
 ---
 
@@ -17,38 +13,36 @@ DFIR & Incident Response
 
 | Category | Tools |
 |---|---|
-| SIEM | Splunk, Wazuh |
+| SIEM | Splunk |
 | Operating Systems | Linux, Windows |
 | Languages | Python, SQL |
-| Frameworks | MITRE ATT&CK, NIST |
-| Compliance | EU MDR, US FDA |
-| Currently Learning | Digital Forensics, Incident Response |
+| Frameworks | MITRE ATT&CK, NIST-CSF, NIST SP 800-53, ISO 27001 |
+| Compliance | EU MDR, US FDA, HIPAA, GDPR |
+| Threat Intelligence | MITRE ATT&CK Navigator, VirusTotal, AbuseIPDB, OSINT |
 
 ---
 
 ## Certifications
-- ✅ Google Cybersecurity Certificate (2025)
-- 🔄 CompTIA Security+ SY0-701 (In Progress — 2026)
+- ✅ CompTIA Security+ SY0-701 (July 2026)
+- ✅ Google Cybersecurity Certificate (March 2026)
 
 ---
 
 ## Projects
 | # | Project | Status |
 |---|---|---|
-| 01 | DFIR Investigations | 🔄 Building |
-| 02 | Splunk Detection Lab | 🔄 Building |
-| 03 | Healthcare Security Analysis | 🔄 Coming Soon |
+| 01 | Cyber Security - Investigations | 4 documented cases: ICMP Flood DoS, DNS Port Unreachable, Contractor Account Exploitation |
+| 02 | Python | Python IP Allowlist Automation |
+| 03 | Splunk Detection Lab | Built SPL queries for brute force, suspicious process creation, anomaly detection |
+| 04 | Healthcare Security Analysis | Change Healthcare ransomware case study — mapped to MITRE ATT&CK, NIST CSF, HIPAA |
+| 05 | Threat Intelligence Research | GTIG zero-day exploit analysis, IOC extraction, MITRE mapping |
 
 ---
 
 ## Why Cybersecurity?
-I spent 3.5 years ensuring compliance for life-critical 
-implantable cardiac devices. I understand what's at 
-stake when security fails in healthcare. Now I'm 
-building the technical skills to protect these systems 
-from the threat side.
+I transitioned from GRC in MedTech to cybersecurity defense because I understand what’s at stake when healthcare systems crash. My mission is to protect patient safety and critical infrastructure by applying DFIR, SIEM, and threat intelligence expertise to real-world incidents.
 
 ---
 
 ## Connect With Me
-🔗 www.linkedin.com/in/kowsalya-b-75312b403
+🔗 www.linkedin.com/in/kowsalya-b-083341425 
